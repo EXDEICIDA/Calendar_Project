@@ -1,0 +1,12 @@
+C:\Users\DEICIDA\source\repos\Project_Calendar\bin\Debug\Project_Calendar.exe.config
+C:\Users\DEICIDA\source\repos\Project_Calendar\bin\Debug\Project_Calendar.exe
+C:\Users\DEICIDA\source\repos\Project_Calendar\bin\Debug\Project_Calendar.pdb
+C:\Users\DEICIDA\source\repos\Project_Calendar\obj\Debug\Project_Calendar.csproj.AssemblyReference.cache
+C:\Users\DEICIDA\source\repos\Project_Calendar\obj\Debug\Project_Calendar.Properties.Resources.resources
+C:\Users\DEICIDA\source\repos\Project_Calendar\obj\Debug\Project_Calendar.csproj.GenerateResource.cache
+C:\Users\DEICIDA\source\repos\Project_Calendar\obj\Debug\Project_Calendar.csproj.CoreCompileInputs.cache
+C:\Users\DEICIDA\source\repos\Project_Calendar\obj\Debug\Project_Calendar.exe
+C:\Users\DEICIDA\source\repos\Project_Calendar\obj\Debug\Project_Calendar.pdb
+C:\Users\DEICIDA\source\repos\Project_Calendar\obj\Debug\Project_Calendar.CalendarForm.resources
+C:\Users\DEICIDA\source\repos\Project_Calendar\obj\Debug\Project_Calendar.UserControlBlank.resources
+C:\Users\DEICIDA\source\repos\Project_Calendar\obj\Debug\Project_Calendar.UserControlDays.resources
